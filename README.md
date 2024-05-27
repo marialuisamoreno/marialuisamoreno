@@ -1,15 +1,15 @@
-# Bem-vindo ao meu perfil! 👋
+# Welcome to my profile! 👋
 
-Olá! Eu sou Maria Luísa Moreno, uma engenheira apaixonada por transformar dados em insights acionáveis e soluções inovadoras. Este é o meu espaço no GitHub, onde compartilho projetos, códigos e aprendizados relacionados ao mundo de dados.
+Hello! I'm Maria Luísa Moreno, an engineer passionate about turning data into actionable insights and innovative solutions. This is my space on GitHub, where I share projects, code, and learnings related to the world of data.
 
-## Sobre Mim
+## About Me
 
-- 🎓 Formada em Engenharia da Computação para Universidade Federal de São Paulo.
-- 💼 Atualmente trabalhando como Coordenadora de Engenharia de Dados na Escola DNC.
-- 🔍 Interesses: Bioinformatics, Big Data, Data Science, Machine Learning, ETL, Cloud Computing.
-- 🌱 Estou sempre aprendendo e explorando novas tecnologias e conceitos relacionados a dados.
+- 🎓 Graduated in Computer Engineering from the Federal University of São Paulo.
+- 💼 Currently working as a Data Engineering Coordinator at DNC School.
+- 🔍 Interests: Bioinformatics, Big Data, Data Science, Machine Learning, ETL, Cloud Computing.
+- 🌱 I'm always learning and exploring new technologies and concepts related to data.
 
-## Tecnologias que Trabalho
+## Technologies I Work With
 
 - R
 - Python
@@ -17,10 +17,9 @@ Olá! Eu sou Maria Luísa Moreno, uma engenheira apaixonada por transformar dado
 - Scikit-learn
 - SQL/NoSQL
 
-## Como Me Encontrar
+## How to Reach Me
 
 - LinkedIn: [Maria Luísa Moreno](https://www.linkedin.com/in/marialuisamoreno/)
-- E-mail: [marialuisasmoreno@hotmail.com](marialuisasmoreno@hotmail.com)
+- Email: [marialuisasmoreno@hotmail.com](marialuisasmoreno@hotmail.com)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser discutir colaborações!
-
+Feel free to explore my repositories and get in touch if you want to discuss collaborations!
