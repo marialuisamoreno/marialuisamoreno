@@ -5,7 +5,7 @@ Hello! I'm Maria Luísa Moreno, an engineer passionate about turning data into a
 ## About Me
 
 - 🎓 Graduated in Computer Engineering from the Federal University of São Paulo.
-- 💼 Currently working as a Data Engineering Coordinator at DNC School.
+- 💼 Currently working as a Senior Data Engineer at Tino.
 - 🔍 Interests: Bioinformatics, Big Data, Data Science, Machine Learning, ETL, Cloud Computing.
 - 🌱 I'm always learning and exploring new technologies and concepts related to data.
 
